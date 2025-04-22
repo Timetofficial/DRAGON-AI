@@ -14,7 +14,7 @@ const appname = process.env.APP_NAME || '';
 const herokuapi = process.env.HEROKU_API;
 const gptdm = process.env.GPT_INBOX || 'FALSE';
 const mode = process.env.MODE || 'PUBLIC';
-const anticall = process.env.AUTOREJECT_CALL || 'TRUE';
+const anticall = process.env.AUTOREJECT_CALL || 'FALSE';
 
 const botname = process.env.BOTNAME || 'MR HEISME';
 const antibot = process.env.ANTIBOT || 'FALSE';

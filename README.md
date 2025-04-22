@@ -11,7 +11,7 @@
 <p align="center">
 
    <a href="https://youtube.com/c/SuhailTechInfo">
-    <img alt="DRAGON-AI" height="600" src="https://i.imgur.com/BBhCoe7.jpeg">
+    <img alt="DRAGON-AI" height="300" src="https://i.imgur.com/BBhCoe7.jpeg">
   </a>
 </p>
   
@@ -45,7 +45,7 @@
 
 2.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Kingdragony/DRAGON-AI/fork)***
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="150" width="100%">
 
 <a href="https://youtu.be/xIVn6Cxsx5w?si=w_jy6vZJLqPxj0q0"><img title="DEPLOYMENT TUTORIALS" src="https://img.shields.io/badge/DEPLOYMENT TUTORIAL-h?color=red&style=for-the-badge&logo=YouTube"></a>
 
@@ -62,13 +62,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ```
-# 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐏𝐑𝐎𝐂𝐄𝐒𝐒🎭
 
-## 𝐀𝐃𝐃 𝐘𝐎𝐔𝐑 𝐂𝐑𝐄𝐃𝐒.𝐉𝐒𝐎𝐍 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐈𝐓𝐇𝐔𝐁 𝐅𝐎𝐑𝐊
-## 𝐂𝐑𝐄𝐀𝐓𝐄 𝐀𝐏𝐏 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔
-## 𝐀𝐃𝐃 𝐁𝐔𝐈𝐋𝐃𝐏𝐀𝐂𝐊𝐒
-## 𝐋𝐎𝐂𝐀𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍-𝐀𝐈 𝐀𝐍𝐃 𝐂𝐎𝐍𝐍𝐄𝐂𝐓
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐁𝐑𝐀𝐍𝐂𝐇
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -76,10 +70,12 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 <br>
 <div align="center">
 
+<img alt="DRAGON-AI" height="100" src="https://i.imgur.com/Et0jQQl.jpeg">
+
 <a href="https://github.com/kingdragony/">
   <img src="https://github-readme-stats.vercel.app/api?username=kingdragony&include_all_commits=true&count_private=falsee&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="10000"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdragony&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="kingdragony"/>
 
-
+<img alt="DRAGON-AI" height="100" src="https://i.imgur.com/pxf5h4e.jpeg">
 
    
